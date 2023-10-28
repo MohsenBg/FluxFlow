@@ -1,3 +1,0 @@
-/home/Bagheri/Projects/c++/RatClient/build/CMakeFiles/Rat.dir
-/home/Bagheri/Projects/c++/RatClient/build/CMakeFiles/edit_cache.dir
-/home/Bagheri/Projects/c++/RatClient/build/CMakeFiles/rebuild_cache.dir
