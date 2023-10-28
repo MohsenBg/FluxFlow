@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Rat.dir/src/main.cpp.o CMakeFiles/Rat.dir/src/shell.cpp.o -o Rat  /usr/lib64/libQt5Widgets.so.5.15.10 /usr/lib64/libQt5Gui.so.5.15.10 /usr/lib64/libQt5Core.so.5.15.10 

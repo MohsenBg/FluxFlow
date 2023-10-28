@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "Linux",
+      "includePath": ["${workspaceFolder}/**", "/usr/include/qt5"],
+      "defines": [],
+      "intelliSenseMode": "linux-clang-x64"
+    }
+  ],
+  "version": 4
+}
