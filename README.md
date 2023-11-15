@@ -42,16 +42,14 @@ FluxFlow operates on a client-server architecture, with a Rust-based client and 
     ```
 
 2. Run the FluxFlow client:
-
-UnixBase:
-
+- UnixBase: 
     ```bash
-    ./client
+    ./client/target/release/client
     ```
-Windows:
 
-    ```cmd
-    ./client.exe
+- Windows:
+    ```bash
+    ./client/target/release/client.exe
     ```
 
 
